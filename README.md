@@ -1,8 +1,6 @@
 # Udacity-Creating-Customer-Segments-with-Arvato
 Final Project in Unsupervised session (Udacity course's "Introduction to Machine Learning with TensorFlow")
 
-[Medium post](https://medium.com/@joshua.chyeung/creating-customer-segments-with-arvato-263ce55b1447)
-
 ### Table of Contents
 
 1. [Installation](#installation)
